@@ -1,0 +1,13 @@
+floor(x) = Returns the largest integer that isn't greater than x as type double
+ceil(x) = Returns the smallest integer that isn't les than x as type double
+fabs(x) = Returns the absolute value of x
+log(x) = Returns the natrual logartihm (base e) of x
+log10(x) = Returns the logarithm to base 10 of x
+exp(x) = Returns the value of ex
+sqrt(x) = Returns the square root of x
+pow(x , y) = Returns the value x^y
+
+sin(x)
+cos(x)
+tan(x)
+

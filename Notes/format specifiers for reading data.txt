@@ -1,0 +1,30 @@
+Format Specifier,Description
+
+
+%c,Read/print a single character
+
+%d,Read/print a single decimal integer
+
+%f,Read/print a floating point number
+
+%e / %E,Read/print a floating point number in scientific notation
+
+%u,Read/print an unsigned decimal integer
+
+%x / %X,Read/print a hexadecimal integer
+
+%o,Read/print an octal integer
+
+%h,Read/print a short integer
+
+%i,"Read/print a decimal, hexadecimal, or octal integer"
+
+%lf,Read/print double
+
+%LF,Read/print long double
+
+%s,Read/print a string
+
+%p,Read/print a pointer
+
+%%,Prints % character
